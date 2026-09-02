@@ -63,7 +63,8 @@ export default function Login() {
         </button>
 
         <div className="login-hint">
-          Uses the ADMIN_EMAIL / ADMIN_PASSWORD you set in the backend's .env file.
+          Demo access — email: <strong>admin@orderscale.dev</strong>, password:{" "}
+          <strong>demo1234</strong>
         </div>
       </form>
     </div>
